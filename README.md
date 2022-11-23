@@ -4,7 +4,7 @@
 <b>주제: 딥러닝 기반 주식 예측 웹 애플리케이션<br>
 수상내역: 장려상<br>
 사용언어: HTML, CSS, JS, Django, MySql, Python, BootStrap<br></b>
-팀명:주식은 정통한<br>
+팀명:주식을 정통한<br>
 팀원<br>
 명지대학교 정보통신공학과<br>
 60181867 김소명<br>
