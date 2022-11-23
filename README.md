@@ -3,7 +3,9 @@
 
 <b>주제: 딥러닝 기반 주식 예측 웹 애플리케이션<br>
 수상내역: 장려상<br>
-사용언어: HTML, CSS, JS, Django, MySql, Python, BootStrap<br></b>
+사용언어: HTML, CSS, JS, Django, MySql, Python, BootStrap<br>
+#### 주요기능: 회원가입 및 로그인, 주식 예측 프로그램, 주식 정보(웹 스크래핑), 커뮤니티 게시판<br>
+</b>
 팀명:주식을 정통한<br>
 팀원<br>
 명지대학교 정보통신공학과<br>
